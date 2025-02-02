@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://silverdigitalbus.io/favicon.svg" width=200 height=200>
+<img src="https://github.com/SilverDigitalBus-LLC/.github/blob/0d0338c35d7bb759fc8123b6b29619eac424f470/profile/logo.svg" width=200 height=200>
 
 </div>
 
